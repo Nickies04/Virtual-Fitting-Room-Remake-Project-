@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/(1)TampilanDepan.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/(2)Navigation.unity
+    guid: c585cd6cc9787114194909ef9979b1e5
+  - enabled: 1
+    path: Assets/Scenes/(3)SizeOptions.unity
+    guid: 8ca3b03a3e0d73b4a86608d09689a151
+  - enabled: 1
+    path: Assets/Scenes/(4)AboutVFR.unity
+    guid: 52dad27513460674abf4ebfc7562f9bf
+  - enabled: 1
+    path: Assets/Scenes/S-Options/(S)DesignOptions.unity
+    guid: cf1e18b345b4236468259b2228362cf8
+  - enabled: 1
+    path: Assets/Scenes/M-Options/(M)DesignOptions.unity
+    guid: 6ce50619207db634d900346bb644b59e
+  - enabled: 1
+    path: Assets/Scenes/L-Options/(L)DesignOptions.unity
+    guid: 602f8051989475e4f93a3740f6d622d1
+  - enabled: 1
+    path: Assets/Scenes/XL-Options/(XL)DesignOptions.unity
+    guid: ffd762d0dfc45264ba570da4d5f869ae
+  - enabled: 1
+    path: Assets/Scenes/S-Options/S-Designs/(S)(1)Fitting.unity
+    guid: 0e3186e7ee0659c4287e0f60e84eeb22
+  - enabled: 1
+    path: Assets/Scenes/S-Options/S-Designs/(S)(2)Fitting.unity
+    guid: a73d84dcb5f610040ade3fd26822bd9a
+  - enabled: 1
+    path: Assets/Scenes/S-Options/S-Designs/(S)(3)Fitting.unity
+    guid: 8126c1f3d11f51a429da9adba826b9f0
+  - enabled: 1
+    path: Assets/Scenes/S-Options/S-Designs/(S)(4)Fitting.unity
+    guid: b1149887de3dc5a4ebfe803160de98c8
+  - enabled: 1
+    path: Assets/Scenes/M-Options/M-Designs/(M)(1)Fitting.unity
+    guid: 7accadd504e554c479ca0e8d46c8d1cb
+  - enabled: 1
+    path: Assets/Scenes/M-Options/M-Designs/(M)(2)Fitting.unity
+    guid: 6cee8ccacbe8da34d9d56ca338887551
+  - enabled: 1
+    path: Assets/Scenes/M-Options/M-Designs/(M)(3)Fitting.unity
+    guid: 5cbfe36acc46d174cb49748def61d121
+  - enabled: 1
+    path: Assets/Scenes/M-Options/M-Designs/(M)(4)Fitting.unity
+    guid: e93ec7040500a674387276206a8b50f5
+  - enabled: 1
+    path: Assets/Scenes/L-Options/L-Designs/(L)(1)Fitting.unity
+    guid: e1d95cc5fc17c674b8b2c170047e15cb
+  - enabled: 1
+    path: Assets/Scenes/L-Options/L-Designs/(L)(2)Fitting.unity
+    guid: fe6e87e0697f4a745883ce0e214d59c9
+  - enabled: 1
+    path: Assets/Scenes/L-Options/L-Designs/(L)(3)Fitting.unity
+    guid: 6262b26e054436f4e83c9be88fd26941
+  - enabled: 1
+    path: Assets/Scenes/L-Options/L-Designs/(L)(4)Fitting.unity
+    guid: 5e46e1d7b1a66a44d97409f028af6528
+  - enabled: 1
+    path: Assets/Scenes/XL-Options/XL-Designs/(XL)(1)Fitting.unity
+    guid: 9faee009a1037fe4a8e72388edef4994
+  - enabled: 1
+    path: Assets/Scenes/XL-Options/XL-Designs/(XL)(2)Fitting.unity
+    guid: e338ecef42c176643acaf1eea99f4187
+  - enabled: 1
+    path: Assets/Scenes/XL-Options/XL-Designs/(XL)(3)Fitting.unity
+    guid: 5b3715299da853941bf53a16e9cea9ac
+  - enabled: 1
+    path: Assets/Scenes/XL-Options/XL-Designs/(XL)(4)Fitting.unity
+    guid: f8b0bc13c3dde9745b3f071ede197c1c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2c0fe1eefcf0f1f41984d3f8c83c06c6, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a8a711d227c0dec44a614599fe20f0b2, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8337e383b2aa8284988f64ad4c641d01, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 35661624b0306a24aa487d5dcf8b0ce4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e9f48c21f8cfdc741a77df12d3857e19, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1fe79146c62858e41a33b1f63195b635, type: 2}
